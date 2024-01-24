@@ -1,5 +1,5 @@
 
-package mcis.jsu.edu;
+package edu.jsu.mcis;
 
 /**
  *
